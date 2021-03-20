@@ -1,5 +1,7 @@
 .gameContainer{
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../img/ezequiel-garrido-5clsQK_QJgo-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
   position:absolute;
   top:0px;
   right:0px;
