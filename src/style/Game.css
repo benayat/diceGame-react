@@ -1,7 +1,7 @@
 .gameContainer{
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../img/ezequiel-garrido-5clsQK_QJgo-unsplash.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   position:absolute;
   top:0px;
   right:0px;
@@ -49,7 +49,8 @@
 }
 #winningScoreLabel{
   font-size: 10vh;
-  color: green;
+  border-radius: 8px;
+  color: rgb(157, 190, 240);
 }
 .cardsContainer{
   display: flex;
