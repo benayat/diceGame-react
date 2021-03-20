@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/diceGame-react/static/css/main.be9ee162.chunk.css",
+    "main.js": "/diceGame-react/static/js/main.04222793.chunk.js",
+    "main.js.map": "/diceGame-react/static/js/main.04222793.chunk.js.map",
+    "runtime-main.js": "/diceGame-react/static/js/runtime-main.5f532a9d.js",
+    "runtime-main.js.map": "/diceGame-react/static/js/runtime-main.5f532a9d.js.map",
+    "static/js/2.05fa4394.chunk.js": "/diceGame-react/static/js/2.05fa4394.chunk.js",
+    "static/js/2.05fa4394.chunk.js.map": "/diceGame-react/static/js/2.05fa4394.chunk.js.map",
+    "index.html": "/diceGame-react/index.html",
+    "static/css/main.be9ee162.chunk.css.map": "/diceGame-react/static/css/main.be9ee162.chunk.css.map",
+    "static/js/2.05fa4394.chunk.js.LICENSE.txt": "/diceGame-react/static/js/2.05fa4394.chunk.js.LICENSE.txt",
+    "static/media/PlayerScoreCard.css": "/diceGame-react/static/media/WarPriest3DRegular-Koxe.105f1829.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f532a9d.js",
+    "static/js/2.05fa4394.chunk.js",
+    "static/css/main.be9ee162.chunk.css",
+    "static/js/main.04222793.chunk.js"
+  ]
+}
