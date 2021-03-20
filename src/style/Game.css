@@ -1,5 +1,5 @@
 .gameContainer{
-  background:rgb(191, 204, 212);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../img/ezequiel-garrido-5clsQK_QJgo-unsplash.jpg");
   position:absolute;
   top:0px;
   right:0px;
