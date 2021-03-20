@@ -1,0 +1,19 @@
+
+button{
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  line-height: 10vh;
+  font-size: 7vh;
+}
+#newGame{
+  background-color: rgb(44, 117, 56);
+}
+#rollDice{
+  background-color: rgb(89, 82, 185);
+}
+#hold{
+  background-color: rgb(100, 75, 79);
+}
+#exitGame{
+  background-color: rgb(139, 108, 151);
+}
+
